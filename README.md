@@ -8,7 +8,7 @@ Create a Fork of this repository. The HTML/CSS files you will work on are in the
 ## Requirements for the pages
 
 * Pages must link to one another.
-* Each of the following must have a different font styling (font styling includes at least different font family, font size and font size):
+* Each of the following must have a different font styling (font styling includes at least different font family and font size):
   * Headline
   * Subhead
   * Body copy
