@@ -1,1 +1,29 @@
+figure {
+width: 550px;
+height: 410px;
+margin: auto;
+padding: 0px 20px 22px 0px;
+float: left;
+font-size: 12px
+}
+a:link {
+text-decoration:none;
+}
+a:hover {
+text-decoration:underline;
+}
+h2 {
+font-family: Verdana;
+}
+h3 {
+font-family: Arial;
+}
+.byline {
+font-family: Tahoma;
+font-size: 80%
+}
+p {
+font-family: Times New Roman;
+}
+
 
